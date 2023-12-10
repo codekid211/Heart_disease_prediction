@@ -7,7 +7,7 @@ Introducing AI.works, the ultimate remote work companion. A platform for efficie
 This project utilizes the heart failure prediction dataset from Kaggle, available [here](https://www.kaggle.com/datasets/fedesoriano/heart-failure-prediction). The dataset provides a comprehensive set of features for predicting heart failure, forming the foundation for our explorations.
 
 ## Project Breif
-![architecture](assets/PA.png)
+![architecture](assets/PA.jpg)
 
 Workflow:
 Data Splitting:
@@ -50,7 +50,7 @@ After install all the dependencies
 
 ![Result of Random forest](assets/RF.png)
 ![Result of Decision Tree](assets/DT.png)
-![Result of Logistic Regression](assets/LG.png)
+![Result of Logistic Regression](assets/LR.png)
 ![Result of SVM](assets/SVM.png)
 
 ## Contribution
